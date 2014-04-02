@@ -21,6 +21,9 @@
 ;;;   (length list-of-nums) == n
 ;;;   (list-ref list-of-nums i) = i+1
 ;;;     for all i, 0 <= i < n.
-(define one-to
+
+=======
+(define first-n-numbers
+>>>>>>> a64b95b9fcf9f28042ad99a4f022e9c242a0f3ff
   (lambda (n)
     (cdr (iota (+ n 1)))))
