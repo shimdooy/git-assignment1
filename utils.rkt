@@ -1,7 +1,7 @@
 #lang racket
 (require gigls/unsafe)
 ;;; File:
-;;;   utils.rkt
+;;;   git-assignment1/utils.rkt
 ;;; Author:
 ;;;   Doo Yong Shim
 ;;; Summary:
