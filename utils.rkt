@@ -24,6 +24,5 @@
 
 =======
 (define first-n-numbers
->>>>>>> a64b95b9fcf9f28042ad99a4f022e9c242a0f3ff
   (lambda (n)
     (cdr (iota (+ n 1)))))
