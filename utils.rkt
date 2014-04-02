@@ -10,7 +10,7 @@
 ;;;   list-of-nums, a list of integers
 ;;; Preconditions:
 ;;;   [No additional]
-;;; Postconditions: 
+;;; Postconditions:
 ;;;   (length list-of-nums) == n
 ;;;   (list-ref list-of-nums i) = i+1
 ;;;     for all i, 0 <= i < n.
